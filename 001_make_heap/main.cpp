@@ -1,6 +1,6 @@
 /*
  * Author: Murtaza Sidhpurwala
- * Date: 2024-08-06
+ * Date: 06-Aug-2024
  * Description: This program demonstrates the use of std::make_heap to convert 
  * a range of elements into a heap.
  * 
